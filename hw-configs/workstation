@@ -1,5 +1,6 @@
 # Chassis #
 45Drives Gen1 Stornado
+
 4U rack mountable chassis, similar to the HL15, with 32 2.5" SATA drive bays
 
 # Motherboard+CPU #
@@ -11,7 +12,6 @@ SuperMicro H12SSL-I-O
 
 # Storage #
 -2x 250GB generic SSDs in software mirror for boot
--16x 960GB Samsung SSDs for NAS
 -4x 1.2T Intel SSDs (nvme)
 
 # OS #
