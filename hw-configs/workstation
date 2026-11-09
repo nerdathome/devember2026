@@ -1,6 +1,5 @@
 # Chassis #
 45Drives Gen1 Stornado
-
 4U rack mountable chassis, similar to the HL15, with 32 2.5" SATA drive bays
 
 # Motherboard+CPU #
@@ -11,18 +10,18 @@ SuperMicro H12SSL-I-O
 8x 32GB DDR4 2666 MT/s
 
 # Storage #
--2x 250GB generic SSDs in software mirror for boot
--4x 1.2T Intel SSDs (nvme)
+- 2x 250GB generic SSDs in software mirror (Proxmox boot pool)
+- 4x 1.2T Intel SSDs (nvme)
 
 # OS #
 Rocky Linux 9.8
 
 # Add-On Cards #
--2x LSI 16port HBA
--1x Mellanox Cx4 dual-port 25G nic
--1x Intel A380 GPU
--2x PCIe x8 to dual u.2 adapter
+- 2x LSI 16port HBA
+- 1x Mellanox Cx4 dual-port 25G nic
+- 1x Intel A380 GPU
+- 2x PCIe x8 to dual u.2 adapter
 
 # MISC
--Noctua Fan upgrade
--Corsair RM1000 PSU
+- Noctua Fan upgrade
+- Corsair RM1000 PSU
