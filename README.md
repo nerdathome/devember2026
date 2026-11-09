@@ -21,3 +21,10 @@ Devember2026 project goal is to deploy Homarr as the landing page for self-hoste
 - DEV & PROD environments for containers
 - Homelab map via RaidOwl/Homelab-hub
 - Smart-outlets for power control of Proxmox nodes & NAS
+
+## Resources
+- [RaidOwl_homelab-hub](https://github.com/RaidOwl/homelab-hub)
+- [Homarr](https://github.com/homarr-labs/homarr)
+- [Cockpit-Project](https://cockpit-project.org/documentation)
+- [Navidrome](https://www.navidrome.org/docs/overview/)
+- [HomeAssistant](https://www.home-assistant.io/installation/)
