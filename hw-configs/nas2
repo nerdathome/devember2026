@@ -1,0 +1,20 @@
+# Chassis #
+Hardkernel Odroid H4 Case Type 3 on .5RU mini rack shelf
+
+# Motherboard+CPU #
+[Odroid H4 Ultra](https://www.hardkernel.com/shop/odroid-h4-plus/) 
+
+Intel i3-N305
+
+# Memory #
+32GB DDR5
+
+# Storage #
+- 256GB NVMe boot drive
+- 4x "2TB" 2.5" SSDs
+
+# OS #
+TrueNAS Community 25.10.7
+
+# Add-On Cards #
+n/a

@@ -1,0 +1,26 @@
+# Chassis #
+Lian Li PC-Q25B Mini ITX Tower Case
+16x 2.5" Drive cage and backplane
+Corsair CX430 Semi-Modular PSU
+Custom MOLEX power whip
+Noctua 140mm ReDux intake Fan
+Noctua 120mm Exhaust Fan
+HW fan controller
+
+# Motherboard+CPU #
+Supermicro X10SDV-4C-TLN2F Mini ITX Xeon D-1521 Motherboard
+Dual 1G I350 NICs
+Dual 10G X552/X557-AT NICs
+
+# Memory #
+32GB DDR4 ECC
+
+# Storage #
+1x 120GB SSD Boot Drive
+13x 800GB Intel SSDs in RAIDz1
+
+# OS #
+TrueNAS
+
+# Add-On Cards #
+LSI SAS3224 HBA

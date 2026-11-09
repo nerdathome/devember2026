@@ -1,0 +1,28 @@
+# Chassis #
+45Drives Gen1 Stornado
+4U rack mountable chassis, similar to the HL15, with 32 2.5" SATA drive bays
+
+# Motherboard+CPU #
+SuperMicro H12SSL-I-O
+1x AMD EPYC 7713 64c/128t
+
+# Memory #
+8x 32GB DDR4 2666 MT/s
+
+# Storage #
+-2x 250GB generic SSDs in software mirror for boot
+-16x 960GB Samsung SSDs for NAS
+-4x 1.2T Intel SSDs (nvme)
+
+# OS #
+Rocky Linux 9.8
+
+# Add-On Cards #
+-2x LSI 16port HBA
+-1x Mellanox Cx4 dual-port 25G nic
+-1x Intel A380 GPU
+-2x PCIe x8 to dual u.2 adapter
+
+# MISC
+-Noctua Fan upgrade
+-Corsair RM1000 PSU
