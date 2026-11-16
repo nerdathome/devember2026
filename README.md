@@ -2,12 +2,18 @@
 Repo for all work that is going into my Level1Tech Devember2026 entry
 
 ## High Level Overview
-Devember2026 project goal is to deploy Homarr as the landing page for self-hosted services like Navidrome, HomeAssistant, and backups.
+Devember2026 project goal:
+```
+Map and manage homelab systems and services with Homarr & HomeLab-Hub
+```
+- HomeLab-Hub will be the map of systems and which services are running on said systems. 
+- Homarr will be the landing page for self-hosted services such as Navidrome, HomeAssistant, and backups/replication.
 
 ## Core Tenants
 - Everything in version control (github)
 - Document challenges in real-time (learning through failures helps others)
 - Build something, doesn’t have to be perfect
+- Iteration is a good thing
 - Try to do something every day
 
 ## Components
@@ -15,11 +21,11 @@ Devember2026 project goal is to deploy Homarr as the landing page for self-hoste
 - Truenas
 - Homarr
 - HomeAssistant
+- HomeLab-Hub
 - Cockpit Project
 
 ## Stretch Goals
 - DEV & PROD environments for containers
-- Homelab map via RaidOwl/Homelab-hub
 - Smart-outlets for power control of Proxmox nodes & NAS
 
 ## Resources
